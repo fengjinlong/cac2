@@ -1,0 +1,16 @@
+{
+  "name": "cac2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fengjinlong/cac2.git",
+  "author": "fjl <18618166564@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "mri": "^1.2.0",
+    "vitest": "^0.17.0"
+  }
+}
