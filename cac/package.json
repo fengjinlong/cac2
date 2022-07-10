@@ -1,0 +1,9 @@
+{
+  "name": "cac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^6.7.12"
+  }
+}
